@@ -1,5 +1,5 @@
 package GENERICS;
 
-public class CaixaHeranca<N extends Number> extends Caixa<X> {
+public class CaixaHeranca<N extends Number, T> extends Caixa<T> {
 
 }
